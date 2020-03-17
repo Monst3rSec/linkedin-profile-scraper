@@ -1,4 +1,4 @@
-# I-will-tell-you
+# I-will-tell-you OSINT TOOL
 
 Linkedin profile finder python script has added in the i-will-tell-you osint framework.
 
