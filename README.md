@@ -1,4 +1,4 @@
-# I-will-tell-you OSINT TOOL
+# Linkedin Profile scraper TOOL
 
 Linkedin profile finder python script has added in the i-will-tell-you osint framework.
 
@@ -11,4 +11,9 @@ Execution commnad:
 python linkedin-user-enumeration.py <your_target_mail_id>
 
 3 => Have a fun !!! 
+
+## Please, if this tool has been useful for you consider to donate
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I71P8SA)
+
 
