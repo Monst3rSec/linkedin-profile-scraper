@@ -1,5 +1,7 @@
 # Due to endpoint issues, the Linkedin Profile Scraper Tool is currently unavailable.
-# Sorry for the inconvenience.I will update it at the earliest. 
+## Please check the below link for alternative method. Huge shout-out to gosecure Team.  
+https://www.gosecure.net/blog/2021/05/27/step-by-step-how-to-deanonymize-emails-on-linkedin/ 
+
 ## Linkedin Profile scraper TOOL
 
 Linkedin profile finder python script has added in the i-will-tell-you osint framework.
