@@ -1,5 +1,5 @@
-# Due to endpoint issues, the Linkedin Profile Scraper Tool is currently unavailable. Please give me some time to investigate an alternate method of achieving the goal.
-
+# Due to endpoint issues, the Linkedin Profile Scraper Tool is currently unavailable.
+# Sorry for the inconvenience.I will update it at the earliest. 
 ## Linkedin Profile scraper TOOL
 
 Linkedin profile finder python script has added in the i-will-tell-you osint framework.
